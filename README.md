@@ -14,9 +14,9 @@
 
 ### <P align = "center">🚀 About Me</p>
 <p align = "center">
-- 💻 I’m a software engineer with hands-on experience in **Kotlin**, **Java**, and **SQL**.
-- 🎯 I enjoy developing apps and have a few cool projects under my belt!
-- 💡 Always open to **collaboration** and exploring new **technologies**.
+- 💻 I’m a software engineer with hands-on experience in <b>Kotlin , Java and SQL </b>. <br>
+- 🎯 I enjoy developing apps and have a few cool projects under my belt! <br>
+- 💡 Always open to <b>collaboration</b> and exploring new <b>Technologies</b>.<br>
 </p>
 
 
